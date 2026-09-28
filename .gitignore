@@ -1,0 +1,4 @@
+# Go binaries
+*.exe
+/revividor-pc
+build/
